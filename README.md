@@ -30,7 +30,8 @@
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=yama-yeah&count_private=true&show_icons=true" />
 
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yama-yeah" />
-### My favorite script
+<div>
+<H1> My favorite script </H1>
 <H4>
   Louise! Louise! Louiseaaaaaaaaaaaaaaaaaaaaaaaaaaaahhhhhhhhhhhhhhh!!!
 yarghh…uh…aaahah-! AaAAAAA!!! LOUISELOUISELOUISEaaaaAAAAaaa!!!
@@ -50,7 +51,8 @@ Yessssss! Wheeeee!! YEAH!!! I have Louise!! I’ve done it Ketty, I can do it al
 C..comic… Louise LOUISE-CHAAAaaaaaAAaaAAAN!!!!!!!! HyaaAAAaaaAaaaAAaA!!!!!
 Ahahaah…ahahaaahhhhahaAnn! Si, Siesta!! HenriettaaaAAAAAAaAA!!! TabithaaAAAAA!!
 u….uuuu..*sniff*sniff*uuuUUU!!! May my love reach Louise!! May my love reach Louise of Halkeginia!
-  </H4>
+</H4>
+</div>
 <!--
 **yama-yeah/yama-yeah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
