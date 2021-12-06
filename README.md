@@ -5,23 +5,23 @@
 </a>
 
 <!-- Articles のバッジ -->
-<a href="https://zenn.dev/nikaera/articles">
-  <img src="https://zenn.badge.nikaera.com/s/nikaera/articles?style=plastic" alt="nikaera articles" />
+<a href="https://zenn.dev/antman/articles">
+  <img src="https://zenn.badge.nikaera.com/s/antman/articles?style=plastic" alt="antman articles" />
 </a>
 
 <!-- Followers のバッジ -->
-<a href="https://zenn.dev/nikaera/followers">
-  <img src="https://zenn.badge.nikaera.com/s/nikaera/followers?style=plastic" alt="nikaera followers" />
+<a href="https://zenn.dev/antman/followers">
+  <img src="https://zenn.badge.nikaera.com/s/antman/followers?style=plastic" alt="antman followers" />
 </a>
 
 <!-- Books のバッジ -->
-<a href="https://zenn.dev/nikaera/books">
-  <img src="https://zenn.badge.nikaera.com/s/nikaera/books?style=plastic" alt="nikaera books" />
+<a href="https://zenn.dev/antman/books">
+  <img src="https://zenn.badge.nikaera.com/s/antman/books?style=plastic" alt="antman books" />
 </a>
 
 <!-- Scraps のバッジ -->
-<a href="https://zenn.dev/nikaera/scraps">
-  <img src="https://zenn.badge.nikaera.com/s/nikaera/scraps?style=plastic" alt="nikaera scraps" />
+<a href="https://zenn.dev/antman/scraps">
+  <img src="https://zenn.badge.nikaera.com/s/antman/scraps?style=plastic" alt="antman scraps" />
 </a>
 <img width=800 src="https://github-profile-trophy.vercel.app/?username=yama-yeah&column=8&theme=gruvbox&no-frame=true"/>
 
