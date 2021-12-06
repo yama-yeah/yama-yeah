@@ -1,4 +1,28 @@
 ### Hi there 👋
+<!-- Like のバッジ -->
+<a href="https://zenn.dev/antman">
+  <img src="https://zenn.badge.nikaera.com/s/antman/likes?style=plastic" alt="antman likes" />
+</a>
+
+<!-- Articles のバッジ -->
+<a href="https://zenn.dev/nikaera/articles">
+  <img src="https://zenn.badge.nikaera.com/s/nikaera/articles?style=plastic" alt="nikaera articles" />
+</a>
+
+<!-- Followers のバッジ -->
+<a href="https://zenn.dev/nikaera/followers">
+  <img src="https://zenn.badge.nikaera.com/s/nikaera/followers?style=plastic" alt="nikaera followers" />
+</a>
+
+<!-- Books のバッジ -->
+<a href="https://zenn.dev/nikaera/books">
+  <img src="https://zenn.badge.nikaera.com/s/nikaera/books?style=plastic" alt="nikaera books" />
+</a>
+
+<!-- Scraps のバッジ -->
+<a href="https://zenn.dev/nikaera/scraps">
+  <img src="https://zenn.badge.nikaera.com/s/nikaera/scraps?style=plastic" alt="nikaera scraps" />
+</a>
 <img width=800 src="https://github-profile-trophy.vercel.app/?username=yama-yeah&column=8&theme=gruvbox&no-frame=true"/>
 
 ---
