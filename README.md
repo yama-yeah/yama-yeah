@@ -25,11 +25,13 @@
 </a>
 <img width=800 src="https://github-profile-trophy.vercel.app/?username=yama-yeah&column=8&theme=gruvbox&no-frame=true"/>
 
+<H1>Status</H1>
 ---
-
+<div>
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=yama-yeah&count_private=true&show_icons=true" />
 
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yama-yeah" /><br>
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yama-yeah" /></div>
+<br>
 <div>
 <H1> My favorite script </H1>
 <H4>
