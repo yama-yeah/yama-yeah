@@ -29,8 +29,7 @@
 
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=yama-yeah&count_private=true&show_icons=true" />
 
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yama-yeah" />
-<br>
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yama-yeah" /><br>
 <div>
 <H1> My favorite script </H1>
 <H4>
