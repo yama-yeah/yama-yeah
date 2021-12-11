@@ -31,7 +31,6 @@
 
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yama-yeah&ver=2" /></div>  
 <div>
-<pre style="font-size: 10px;line-height: 10px;"><span style="color:#fef5e3;">.}</span><span style="color:#fef5e3;">.}</span><span style="color:#fef5e3;">.}</span>
 <!--
 **yama-yeah/yama-yeah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
