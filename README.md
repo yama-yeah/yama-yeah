@@ -1,7 +1,7 @@
 ### Hi there 👋
 <!-- Like のバッジ -->
 <a href="https://zenn.dev/antman">
-  <img src="https://zenn.badge.nikaera.com/s/antman/likes?style=plasticver=2" alt="antman likes" />
+  <img src="https://zenn.badge.nikaera.com/s/antman/likes?style=plastic&ver=2" alt="antman likes" />
 </a>
 
 <!-- Articles のバッジ -->
