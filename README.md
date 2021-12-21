@@ -11,7 +11,7 @@
 
 <!-- Followers のバッジ -->
 <a href="https://zenn.dev/antman/followers">
-  <img src="https://zenn.badge.nikaera.com/s/antman/followers?style=plastic?ver=2" alt="antman followers" />
+  <img src="https://zenn.badge.nikaera.com/s/antman/followers?style=plastic&ver=2" alt="antman followers" />
 </a>
 
 <!-- Books のバッジ -->
