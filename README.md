@@ -6,7 +6,7 @@
 
 <!-- Articles のバッジ -->
 <a href="https://zenn.dev/antman/articles">
-  <img src="https://zenn.badge.nikaera.com/s/antman/articles?style=plastic?ver=2" alt="antman articles" />
+  <img src="https://zenn.badge.nikaera.com/s/antman/articles?style=plastic&ver=2" alt="antman articles" />
 </a>
 
 <!-- Followers のバッジ -->
