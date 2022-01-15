@@ -87,7 +87,7 @@
 <div>
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=yama-yeah&count_private=true&show_icons=true/ver=2" />
 
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yama-yeah/ver=2" /></div>  
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yama-yeah&ver=2" /></div>  
 <div>
 <!--
 **yama-yeah/yama-yeah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
