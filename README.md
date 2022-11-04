@@ -23,7 +23,8 @@
 <a href="https://zenn.dev/antman/scraps">
   <img src="https://zenn.badge.nikaera.com/s/antman/scraps?style=plastic" alt="antman scraps" />
 </a>
-<img width=800 src="https://github-profile-trophy.vercel.app/?username=yama-yeah&column=8&theme=gruvbox&no-frame=true/ver=2"/>
+<img width=800 src="https://github-profile-trophy.vercel.app/?username=yama-yeah&column=8&theme=gruvbox&no-frame=true/ver=2"/>  
+
 <div>
                                                                                                        
                                                                                                      
@@ -88,6 +89,9 @@
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=yama-yeah&count_private=true&show_icons=true/ver=2" />
 
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yama-yeah&ver=2" /></div>  
+
+[![@yamayeah's Holopin board](https://holopin.me/yamayeah)](https://holopin.io/@yamayeah)
+
 <div>
 <!--
 **yama-yeah/yama-yeah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
